@@ -5,10 +5,10 @@ import time
 pygame.init()
 
 # Resources
-icon = pygame.image.load("source/images/game-icon.png")
-sneaker = pygame.image.load("source/images/sneaker-1.png")
-coin = pygame.image.load("source/images/coin.png")
-font = pygame.font.Font("source/fonts/Teko-Regular.ttf", 40)
+icon = pygame.image.load("ShakingSneakers/images/game-icon.png")
+sneaker = pygame.image.load("ShakingSneakers/images/sneaker-1.png")
+coin = pygame.image.load("ShakingSneakers/images/coin.png")
+font = pygame.font.Font("ShakingSneakers/fonts/Teko-Regular.ttf", 40)
 
 # Settings
 pygame.display.set_caption("SimulatorShakingSneakers")
